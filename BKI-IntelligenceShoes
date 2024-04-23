@@ -1,1 +1,72 @@
+BKI-IntelligenceShoes
+
+Integrantes
+Kevin Conejo Salazar 1222100714
+Brayan Yohani Narváez Morales  1222100518
+Ivana Rocha Campos 1222100460
+
+
+
+Carta de liberación del proyecto
+
+
+Lista del Hardware utilizado
+
+| ID  | Componente                 | Descripción                                                                                             | Imagen                                                                                                               | Cantidad | Costo total          |
+|-----|----------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------|----------|----------------------|
+| 1   | Display LCD Pantalla 16x2  | Un display de cristal líquido (LCD) con capacidad para mostrar 16 caracteres en 2 líneas.               | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws5TkPRO6mVvTv-btu5m4QbB1ffGAZU3CbNs3H1vPuA&s                      1           $73
+| 2   | Buzzer KY-006              | Un pequeño zumbador que puede generar sonidos simples.                                                  | https://m.media-amazon.com/images/I/51k94PpRd2L._AC_UF894,1000_QL80_.jpg                                                  1         $237.38     
+| 3   | Placa ESP32                | Una placa de desarrollo basada en el microcontrolador ESP32, que ofrece capacidades de conectividad Wi-Fi y Bluetooth.https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzEU6uG1210RNMsbVswzPIv674ANb_iwvK3CGYLBZ-w&s          1          $280
+| 4   | RFID-RC522                 | Un módulo RFID que utiliza el chip RC522 para la lectura y escritura de tarjetas de proximidad.         |https://naylampmechatronics.com/797-large_default/modulo-rfid-mfrc522-.jpg                                                 1          $60
+| 5   |Hc-sr04 Sensor Ultrasonico  |El HC-SR04 es un sensor ultrasónico que consta de un transmisor y un receptor de ultrasonido.            |https://http2.mlstatic.com/D_NQ_NP_793222-MLM49910782685_052022-O.webp                                                     2          $64
+| 6   |Servomotor                  |Un servomotor es un tipo de motor que incorpora un mecanismo de retroalimentación de posición            |https://http2.mlstatic.com/D_NQ_NP_752802-MLM51148379986_082022-O.webp                                                     1          $159
+
+Lista de Software utilizado
+
+
+| ID  | Software | Versión | Tipo       |
+|-----|----------|---------|------------|
+| 1   | Fritzing |         |   Software de diseño electrónico / CAD (Computer-Aided Design).                                 |
+| 2   | Grafana  |         |   Plataforma de visualización y monitoreo de datos.                                             |
+| 3   | Node-RED |         |   Entorno de desarrollo para el Internet de las Cosas (IoT) y la integración de sistemas.       |
+| 4   | Thonny   |         |   Entorno de desarrollo integrado (IDE) para Python.                                            |
+| 5   | GitHub   |         |   Plataforma de desarrollo colaborativo para alojar proyectos utilizando el control de versiones de Git.        |
+| 6   | Tinkercad|         |   Plataforma en línea para el diseño y simulación de circuitos electrónicos y modelos 3D        |
+|7    |PostgreSQL|         |   Sistema de gestión de bases de datos relacional (RDBMS, por sus siglas en inglés).|
+
+
+Visión del producto
+Entendido, aquí tienes una visión de proyecto para una tienda de zapatos inteligente con una sola jefa:
+
+1. Público:
+   La tienda de zapatos inteligente está dirigida a clientes que buscan una experiencia de compra innovadora y
+   conveniente en la adquisición de calzado de moda. Además, el enfoque en la inteligencia artificial y la automatización 
+  también puede atraer a consumidores interesados en la tecnología y las últimas tendencias en retail.
+
+2. Problema:
+   El problema que enfrentan tanto la jefa como los clientes es la necesidad de mejorar la eficiencia y la personalización
+   en la experiencia de compra de calzado. La jefa puede enfrentar desafíos para gestionar eficazmente el inventario, satisfacer
+   las demandas de los clientes y mantenerse al día con las últimas tendencias. Por otro lado, los clientes pueden encontrar 
+   frustrante la búsqueda de zapatos que se ajusten a sus gustos y necesidades específicas en un entorno de tienda tradicional.
+
+3. Solución:
+   La solución consiste en implementar tecnologías inteligentes y sistemas automatizados en la tienda para mejorar la gestión 
+   del inventario, optimizar el proceso de compra y ofrecer una experiencia más personalizada a los clientes. Esto incluye el 
+   uso de algoritmos de recomendación basados en inteligencia artificial para sugerir productos según el historial de compra y las 
+   preferencias de los clientes. Además, se pueden implementar probadores virtuales o sistemas de medición automática para ayudar a
+   los clientes a encontrar el calzado perfecto. La jefa puede utilizar sistemas de gestión de inventario y análisis de datos para 
+   tomar decisiones informadas sobre la selección de productos y las estrategias de precios. Todo esto se realiza con el objetivo de mejorar
+   la satisfacción del cliente, aumentar las ventas y optimizar la operación general de la tienda.
+
+Conexiones
+* Imagenes de Wokwi, Fritzing, o de otro software que me permita mostrar las conexiones del circuito.
+* Raspberry Pi
+* ESP 32
+* Imagen de WhatsApp 2024-04-22 a las 18.36.04_1a741d3f
+* Imagen de WhatsApp 2024-04-22 a las 16.24.26_c8043bec
+
+
+
+
+
 
