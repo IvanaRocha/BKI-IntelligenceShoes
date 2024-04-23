@@ -51,9 +51,9 @@ Visión del producto
 
 
 3. Solución:
-   Una solución efectiva para el problema de Georgina sería implementar un sistema de escaneo de códigos de barras o etiquetas RFID para
-   los zapatos que llegan a su tienda. Este sistema automatizado podría leer la información de cada par de zapatos, incluyendo el precio, talla,
-   color, modelo, etc., y registrarla automáticamente en una base de datos centralizada. Además, este sistema podría integrarse con el software 
+  Una solución efectiva para el problema de Georgina sería implementar un sistema de escaneo de códigos de barras o etiquetas RFID para
+  los zapatos que llegan a su tienda. Este sistema automatizado podría leer la información de cada par de zapatos, incluyendo el precio, talla,
+  color, modelo, etc., y registrarla automáticamente en una base de datos centralizada. Además, este sistema podría integrarse con el software 
   de gestión de inventario existente en la tienda de Georgina, lo que garantizaría una actualización en tiempo real del inventario y una reducción
   significativa de errores.
   Con esta solución, Georgina ya no tendría que ingresar manualmente la información de cada par de zapatos, lo que ahorraría tiempo y reduciría el 
