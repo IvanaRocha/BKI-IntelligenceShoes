@@ -26,37 +26,39 @@ Lista de Software utilizado
 
 | ID  | Software | Versión | Tipo       |
 |-----|----------|---------|------------|
-| 1   | Fritzing |         |   Software de diseño electrónico / CAD (Computer-Aided Design).                                 |
-| 2   | Grafana  |         |   Plataforma de visualización y monitoreo de datos.                                             |
-| 3   | Node-RED |         |   Entorno de desarrollo para el Internet de las Cosas (IoT) y la integración de sistemas.       |
-| 4   | Thonny   |         |   Entorno de desarrollo integrado (IDE) para Python.                                            |
-| 5   | GitHub   |         |   Plataforma de desarrollo colaborativo para alojar proyectos utilizando el control de versiones de Git.        |
-| 6   | Tinkercad|         |   Plataforma en línea para el diseño y simulación de circuitos electrónicos y modelos 3D        |
-|7    |PostgreSQL|         |   Sistema de gestión de bases de datos relacional (RDBMS, por sus siglas en inglés).|
+| 1   | Fritzing |1.0.2    |   Software de diseño electrónico / CAD (Computer-Aided Design).                                 |
+| 2   | Grafana  |10.4.2   |   Plataforma de visualización y monitoreo de datos.                                             |
+| 3   | Node-RED |2.0      |   Entorno de desarrollo para el Internet de las Cosas (IoT) y la integración de sistemas.       |
+| 4   | Thonny   |4.1.4    |   Entorno de desarrollo integrado (IDE) para Python.                                            |
+| 5   | GitHub   |3.12     |   Plataforma de desarrollo colaborativo para alojar proyectos utilizando el control de versiones de Git.        |
+| 6   | Tinkercad|SketchUp |   Plataforma en línea para el diseño y simulación de circuitos electrónicos y modelos 3D        |
+|7    |PostgreSQL|PostgreSQL13|   Sistema de gestión de bases de datos relacional (RDBMS, por sus siglas en inglés).|
 
 
 Visión del producto
-Entendido, aquí tienes una visión de proyecto para una tienda de zapatos inteligente con una sola jefa:
 
 1. Público:
-   La tienda de zapatos inteligente está dirigida a clientes que buscan una experiencia de compra innovadora y
-   conveniente en la adquisición de calzado de moda. Además, el enfoque en la inteligencia artificial y la automatización 
-  también puede atraer a consumidores interesados en la tecnología y las últimas tendencias en retail.
+  La tienda de Aufit Geser se enfoca en brindar una experiencia innovadora y conveniente a la empresaria  Georgina, quien 
+  busca adquirir calzado de moda de manera eficiente. Con el objetivo de facilitar el registro de los zapatos que llegan a su 
+  tienda, se ha implementado un sistema automatizado que elimina la necesidad de ingresar la información de cada par de zapatos 
+  individualmente.
 
 2. Problema:
-   El problema que enfrentan tanto la jefa como los clientes es la necesidad de mejorar la eficiencia y la personalización
-   en la experiencia de compra de calzado. La jefa puede enfrentar desafíos para gestionar eficazmente el inventario, satisfacer
-   las demandas de los clientes y mantenerse al día con las últimas tendencias. Por otro lado, los clientes pueden encontrar 
-   frustrante la búsqueda de zapatos que se ajusten a sus gustos y necesidades específicas en un entorno de tienda tradicional.
+ El problema de Georgina es la carga de trabajo manual y el tiempo que consume registrar la información de cada par de zapatos 
+ individualmente en una hoja de cálculo. Este proceso es tedioso y propenso a errores, lo que puede generar estrés y afectar
+ negativamente su eficiencia en la gestión de la tienda. Además, el tiempo que pasa en tareas administrativas podría ser utilizado 
+ de manera más productiva en otras áreas del negocio, como atención al cliente o estrategias de marketing.
+
 
 3. Solución:
-   La solución consiste en implementar tecnologías inteligentes y sistemas automatizados en la tienda para mejorar la gestión 
-   del inventario, optimizar el proceso de compra y ofrecer una experiencia más personalizada a los clientes. Esto incluye el 
-   uso de algoritmos de recomendación basados en inteligencia artificial para sugerir productos según el historial de compra y las 
-   preferencias de los clientes. Además, se pueden implementar probadores virtuales o sistemas de medición automática para ayudar a
-   los clientes a encontrar el calzado perfecto. La jefa puede utilizar sistemas de gestión de inventario y análisis de datos para 
-   tomar decisiones informadas sobre la selección de productos y las estrategias de precios. Todo esto se realiza con el objetivo de mejorar
-   la satisfacción del cliente, aumentar las ventas y optimizar la operación general de la tienda.
+   Una solución efectiva para el problema de Georgina sería implementar un sistema de escaneo de códigos de barras o etiquetas RFID para
+   los zapatos que llegan a su tienda. Este sistema automatizado podría leer la información de cada par de zapatos, incluyendo el precio, talla,
+   color, modelo, etc., y registrarla automáticamente en una base de datos centralizada. Además, este sistema podría integrarse con el software 
+  de gestión de inventario existente en la tienda de Georgina, lo que garantizaría una actualización en tiempo real del inventario y una reducción
+  significativa de errores.
+  Con esta solución, Georgina ya no tendría que ingresar manualmente la información de cada par de zapatos, lo que ahorraría tiempo y reduciría el 
+  estrés asociado con tareas administrativas repetitivas. Además, al contar con un inventario actualizado y preciso, Georgina podría tomar decisiones
+  más informadas sobre la gestión de su tienda y brindar una experiencia de compra más satisfactoria a sus clientes.
 
 Conexiones
 * Imagenes de Wokwi, Fritzing, o de otro software que me permita mostrar las conexiones del circuito.
